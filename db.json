@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "email": "test0@test.test",
+      "password": "$2a$10$cZPxmSN3iyNydvQwMKYMQeOrerElsppXnmbLieUYTOR9BwFue03Y6",
+      "id": 0
+    }
+  ],
+  "contacts": [
+    {
+      "email": "test1@test.test",
+      "name": "test1",
+      "phone": "1(111)111-11-11",
+      "id": 0
+    },
+    {
+      "email": "test0@test.test",
+      "name": "test0",
+      "phone": "0(000)000-00-01",
+      "id": 1
+    }
+  ]
+}
